@@ -651,9 +651,9 @@
   // #define DEFAULT_bedKi 9.39
   // #define DEFAULT_bedKd 279.43
   // CUSTOM PID TUNE 03-11-2022 TO 70C
-  #define DEFAULT_bedKp 34.80
-  #define DEFAULT_bedKi 4.27
-  #define DEFAULT_bedKd 189.34
+  #define DEFAULT_bedKp 29.63
+  #define DEFAULT_bedKi 3.69
+  #define DEFAULT_bedKd 158.84
 
   // FIND YOUR OWN: "M303 E-1 C8 S90" to run autotune on the bed at 90 degreesC for 8 cycles.
 #endif // PIDTEMPBED
